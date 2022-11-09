@@ -1,21 +1,21 @@
 # README
-about me
-<h1 align="center">Hi 👋, I'm Jupally Raviteja Rao</h1>
-<h3 align="center">I Like experimenting with new technologies , building small projects .</h3>
+
+<h1 align="center">Hi👋, I'm Jupally Raviteja Rao</h1>
+<h3 align="center">I like experimenting with new technologies, building small projects.</h3>
 
 - 🔭 I’m currently working on **MERN stack**
 
-- 🌱 I’m currently learning **DSA ,Web development and c#**
+- 🌱 I’m currently learning **DSA ,Web Development and C#**
 
 - 👯 I’m looking to collaborate on **Integration Architecture Document Generation**
 
-- 📫 How to reach me **ravitejajupalli333@gmail.com**
+- 📫 How to reach me: **ravitejajupalli333@gmail.com**
 
 - ⚡ Fun fact **I love Music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/raviteja rao jupally" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raviteja rao jupally" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/raviteja-rao-jupally-895686254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raviteja rao jupally" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
